@@ -1,0 +1,22 @@
+{
+  "name": "YDQDemo",
+  "version": "0.1.0",
+  "summary": "A short description of YDQDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yingzhige1989/YDQDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LaiFengHai": "15880041990@139.com"
+  },
+  "source": {
+    "git": "https://github.com/yingzhige1989/YDQDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YDQDemo/Classes/**/*"
+}

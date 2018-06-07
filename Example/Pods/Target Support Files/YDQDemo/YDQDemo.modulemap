@@ -1,0 +1,6 @@
+framework module YDQDemo {
+  umbrella header "YDQDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
